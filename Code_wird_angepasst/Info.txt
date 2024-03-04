@@ -1,0 +1,1 @@
+Dies ist der Code der geschrieben wurde, um das Auto schneller durch die Strecke fahren lassen zu können. Hierbei hält das Auto sich in der Mitte, jedoch schafft er die ersten 2 Kurven und dann verhängt er sich.

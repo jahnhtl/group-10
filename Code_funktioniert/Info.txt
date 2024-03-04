@@ -1,0 +1,2 @@
+Das Auto fährt die gesamte Strecke durch, jedoch sehr langsam. Der mittlere Sensor wird ausgesteckt, damit der Code funktioniert.
+Info: Das Auto macht eigentlich Seitenregelung, und behält konstant den selben Abstand rechts.
