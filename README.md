@@ -1,4 +1,4 @@
 # group-10
 
-# moftah-2 ist king
+# sakip-2 ist king
 
